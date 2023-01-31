@@ -31,4 +31,4 @@ Hi, I'm Karen ![](https://user-images.githubusercontent.com/18350557/176309783-0
 
 ![Metrics](https://metrics.lecoq.io/KarenDanielyan?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FYerevan)
 
-<a href="https://github.com/KarenDanielyan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarenDanielyan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/KarenDanielyan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarenDanielyan&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
